@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=maze
+comment0.target=Treasure(Maze)
+comment1.params=maze\ seed
+comment1.target=Treasure(Maze,\ long)
+comment2.params=maze\ location
+comment2.target=Treasure(Maze,\ Square)
+comment3.params=
+comment3.target=boolean\ found()
+comment4.params=
+comment4.target=void\ setFound()
+comment5.params=
+comment5.target=void\ move()
+comment6.params=newLoc
+comment6.target=void\ moveTo(Square)
+comment7.params=d
+comment7.target=java.lang.String\ toText(char)
+comment8.params=s
+comment8.target=void\ toObject(java.util.Scanner)
+numComments=9

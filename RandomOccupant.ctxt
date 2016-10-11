@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=maze
+comment0.target=RandomOccupant(Maze)
+comment1.params=maze\ seed
+comment1.target=RandomOccupant(Maze,\ long)
+comment2.params=maze\ location
+comment2.target=RandomOccupant(Maze,\ Square)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=in
+comment4.target=void\ toObject(java.util.Scanner)
+numComments=5

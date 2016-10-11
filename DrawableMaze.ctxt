@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ draw()
+comment1.params=maze\ rows\ cols
+comment1.target=DrawableMaze(DrawableSquare[][],\ int,\ int)
+numComments=2

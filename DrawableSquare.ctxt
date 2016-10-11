@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ draw()
+comment1.params=up\ right\ down\ left\ row\ col
+comment1.target=DrawableSquare(boolean,\ boolean,\ boolean,\ boolean,\ int,\ int)
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Occupant()
+comment1.params=start
+comment1.target=Occupant(Square)
+comment2.params=
+comment2.target=Square\ location()
+comment3.params=newLoc
+comment3.target=void\ moveTo(Square)
+comment4.params=d
+comment4.target=java.lang.String\ toText(char)
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ draw()
+comment1.params=maze
+comment1.target=DrawableTreasure(Maze)
+comment2.params=maze\ seed
+comment2.target=DrawableTreasure(Maze,\ long)
+comment3.params=maze\ location
+comment3.target=DrawableTreasure(Maze,\ Square)
+numComments=4

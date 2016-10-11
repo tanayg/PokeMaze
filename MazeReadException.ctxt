@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=message\ line\ lineNumber
+comment0.target=MazeReadException(java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getLine()
+comment2.params=
+comment2.target=int\ getLineNum()
+numComments=3

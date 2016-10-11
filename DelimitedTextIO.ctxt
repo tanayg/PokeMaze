@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=delimiter
+comment0.target=java.lang.String\ toText(char)
+comment1.params=input
+comment1.target=void\ toObject(java.util.Scanner)
+numComments=2

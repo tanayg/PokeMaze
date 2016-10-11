@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ draw()
+comment1.params=location\ maze\ name
+comment1.target=DrawableExplorer(Square,\ Maze,\ java.lang.String)
+numComments=2

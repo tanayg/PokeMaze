@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=maze
+comment0.target=Explorer(Maze)
+comment1.params=location\ maze\ name
+comment1.target=Explorer(Square,\ Maze,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ name()
+comment3.params=key
+comment3.target=void\ move(int)
+comment4.params=s
+comment4.target=void\ moveTo(Square)
+comment5.params=d
+comment5.target=java.lang.String\ toText(char)
+comment6.params=in
+comment6.target=void\ toObject(java.util.Scanner)
+numComments=7
